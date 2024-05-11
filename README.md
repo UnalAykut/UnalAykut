@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Java and Python**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter and Machine Learning with Python**
 
 - 📫 How to reach me **unalaykut96@gmail.com**
 
