@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Java and Python**
 
-- 🌱 I’m currently learning **Machine Learning with Python**
+- 🌱 I’m currently learning **Spring**
 
 - 📫 How to reach me **unalaykut96@gmail.com**
 
