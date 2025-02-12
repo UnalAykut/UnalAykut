@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Java and Python**
 
-- 🌱 I’m currently learning **Spring**
+- 🌱 I’m currently learning **Spring and React**
 
 - 📫 How to reach me **unalaykut96@gmail.com**
 
